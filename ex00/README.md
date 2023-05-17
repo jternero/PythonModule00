@@ -6,7 +6,7 @@ Este script automatiza la instalación de conda y la creación de un entorno Pyt
 ## Pasos
 
 1.  Descarga el script  `install_python_env.sh`
-2.  Danle permisos de ejecución con  `chmod +x install_python_env.sh`
+2.  Dale permisos de ejecución con  `chmod +x install_python_env.sh`
 3.  Ejecútalo con  `. ./install_python_env.sh`
 4.  Sigue las instrucciones en la terminal.
 
@@ -27,5 +27,5 @@ El script:
 -   `python -V`: Muestra la versión de Python
 -   `python -c "print('Hello World!')"`: Ejecuta un pequeño script Python
 
-Si tienes problemas, repite los pasos 1 a 3. Ten en cuenta que debes volver a sourgear  
+Si tienes problemas, repite los pasos 1 a 3. Ten en cuenta que debes volver a actualizar  
 tu archivo  `.bashrc`  o  `.zshrc`  después de una nueva ejecución del script.
