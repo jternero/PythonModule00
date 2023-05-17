@@ -16,11 +16,15 @@ text_analyzer(texto)
 Ejecuta el archivo de Python y el resultado se imprimirá en la consola.
 Este código imprimirá:
 
-The text contains 17 characters.
-Upper-case characters : 1.
-Lower-case characters : 12.
-Punctuation characters : 3.
-Spaces : 2.
+The text contains 17 characters
+
+Upper-case characters : 1
+
+Lower-case characters : 12
+
+Punctuation characters : 3
+
+Spaces : 2
 
 
 Si no se proporciona una cadena como argumento, el programa te pedirá que introduzcas una cadena para analizar.
