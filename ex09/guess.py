@@ -3,7 +3,7 @@ import sys
 
 def guess_number(): 
     
-    secret_number = 42
+    secret_number = ramdon.randint(1, 99)
     num_guesses = 0
     print("\n This is an interactive guessing game!")
     print("\nYou have to enter a number between 1 and 99 out the secret number.\nType 'exit' to end the game.\nGood look!!")
