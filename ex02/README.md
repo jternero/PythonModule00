@@ -1,7 +1,7 @@
 # Función Whois
 La función whois es una función de Python que toma un número como argumento y devuelve si el número es par, impar o cero.
 
-3 Uso
+# Uso
 Para usar esta función, sigue estos pasos:
 
 Abre tu archivo de Python.
