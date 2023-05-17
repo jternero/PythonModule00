@@ -10,6 +10,7 @@ Copia el código de la función text_analyzer en tu archivo.
 Llama a la función text_analyzer y pásale una cadena como argumento. Por ejemplo:
 
 texto = "Hola, ¿cómo estás?"
+
 text_analyzer(texto)
 
 Ejecuta el archivo de Python y el resultado se imprimirá en la consola.
